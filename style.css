@@ -1,0 +1,82 @@
+body {
+    background-color: beige;
+    color: black;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+}
+
+h2 {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+h3 {
+    background-color: lightyellow;
+    color: brown;
+}
+
+h4 {
+    background-color: lavender;
+    color: purple;
+}
+
+h5 {
+    background-color: mistyrose;
+    color: darkred;
+}
+
+h6 {
+    background-color: lightcyan;
+    color: teal;
+}
+
+p {
+    background-color: lightgray;
+    color: darkslategray;
+}
+body {
+    background-color: beige;
+    color: black;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+}
+
+h2 {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+h3 {
+    background-color: lightyellow;
+    color: brown;
+}
+
+h4 {
+    background-color: paleturquoise;
+    color: purple;
+}
+
+h5 {
+    background-color: mistyrose;
+    color: darkred;
+}
+
+h6 {
+    background-color: lightcyan;
+    color: teal;
+}
+
+p {
+    background-color: lightgray;
+    color: darkslategray;
+}
+pre {
+    background-color:red ;
+    color: darkblue;
+}
